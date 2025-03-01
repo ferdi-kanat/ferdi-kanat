@@ -26,8 +26,7 @@ Here are some projects I'm proud of:
 - **CS50xKodluyoruz**: A collection of solutions demonstrating my grasp of programming fundamentals in C.
 
 ## 🏆 Certificates
-- You can look for my all certificates
-- https://www.linkedin.com/in/ferdi-k-0b4528272 
+- [You can look to my LinkedIn profile for my all certificates](https://www.linkedin.com/in/ferdi-k-0b4528272) 
 
 ## 📊 GitHub Stats
 ![Ferdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdi-kanat&show_icons=true&theme=radical)  
