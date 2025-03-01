@@ -34,7 +34,7 @@ Here are some projects I'm proud of:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdi-kanat&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Ferdi K.](https://www.linkedin.com/in/ferdi-k-0b4528272)  
+- **LinkedIn**: [Ferdi Kanat](https://www.linkedin.com/in/ferdi-k-0b4528272)  
 - **Email**: [ferdi3189@gmail.com](mailto:ferdi3189@gmail.com)
 - **GitHub**: You're already here!  
 
