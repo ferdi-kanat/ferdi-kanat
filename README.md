@@ -1,12 +1,10 @@
-## Hi there 👋
-
 # Hi there! 👋 I'm Ferdi Kanat
 
 I'm a passionate programmer and web development enthusiast with a strong foundation in computer science fundamentals. I enjoy building modern web applications and solving challenging problems through code. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🌍 Based in Bursa, Turkey 
-- 💻 Currently honing my skills in **web development** , **mobile app development** **software engineering**  
+- 💻 Currently honing my skills in **web development** , **mobile app development** , **software engineering**  
 - 🎓 Studying at Yalova University in Computer Engineering 
 - 🌱 Always learning and exploring new technologies  
 
