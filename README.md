@@ -21,9 +21,12 @@ Here are some projects I'm proud of:
 |--------------------|--------------------------------------------------|---------------------------|-------------------------------------------|
 | **my-nuxt-app**    | Recreated Columbia's homepage with modern tech   | Nuxt.js, Vue.js, TypeScript, Firebase | [GitHub](https://github.com/ferdi-kanat/my-nuxt-app) |
 | **CS50xKodluyoruz**| Solutions to CS50 problem sets in C              | C                         | [GitHub](https://github.com/ferdi-kanat/CS50xKodluyoruz) |
-
-- **my-nuxt-app**: A web development project showcasing my ability to build responsive and dynamic sites.  
-- **CS50xKodluyoruz**: A collection of solutions demonstrating my grasp of programming fundamentals in C.
+| **budget-app**     | Budget management application                    | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/budget-app) |
+| **MyCotlinHomeworks** | Homework projects in Kotlin                   | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/MyCotlinHomeworks) |
+| **FakeStore**      | Fake store application                           | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/FakeStore) |
+| **CountryApp**     | Country information application                  | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/CountryApp) |
+| **my-java-lesson-codes** | Java learning repository                   | Java, Rich Text Format    | [GitHub](https://github.com/ferdi-kanat/my-java-lesson-codes) |
+| **btkhtml**        | HTML and CSS projects                            | HTML, CSS                 | [GitHub](https://github.com/ferdi-kanat/btkhtml) |
 
 ## 🏆 Certificates
 - [You can look to my LinkedIn profile for my all certificates](https://www.linkedin.com/in/ferdi-k-0b4528272) 
