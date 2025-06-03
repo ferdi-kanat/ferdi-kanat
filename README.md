@@ -1,34 +1,36 @@
 # Hi there! 👋 I'm Ferdi Kanat
 
-I'm a passionate programmer and web development enthusiast with a strong foundation in computer science fundamentals. I enjoy building modern web applications, architecture designs, mobile applications, and exploring new technologies.
+I'm a passionate programmer and web development enthusiast with a strong foundation in computer science fundamentals. I enjoy building modern web applications, architecture designs, mobile applications, and exploring innovative solutions in machine learning and data science.
 
 ## 🚀 About Me
 - 🌍 Based in Bursa, Turkey 
-- 💻 Currently honing my skills in **web development**, **mobile app development**, **software engineering**  
+- 💻 Currently honing my skills in **web development**, **mobile app development**, **machine learning**, **data science**, and **software engineering**  
 - 🎓 Studying at Yalova University in Computer Engineering 
 - 🌱 Always learning and exploring new technologies  
 
 ## 🛠 Skills
-- **Languages**: JavaScript (ES6+), TypeScript, C, Python, Java, Kotlin
-- **Frameworks & Libraries**: Nuxt.js, Vue.js  
-- **Tools**: Git, Node.js, Firebase, GCC Compiler, Anaconda  
-- **Concepts**: Front-end Development, Mobile App Development, Problem Solving, Algorithms  
+- **Languages**: JavaScript (ES6+), TypeScript, Python, Java, Kotlin, C
+- **Frameworks & Libraries**: Nuxt.js, Vue.js, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning & Data Science**: Classification, Feature Selection (Genetic Algorithms), PCA, Model Evaluation & Visualization  
+- **Tools**: Git, Node.js, Firebase, GCC Compiler, Anaconda, Jupyter Notebook  
+- **Concepts**: Front-end Development, Mobile App Development, Machine Learning Pipelines, Problem Solving, Algorithms  
 
 ## 🌟 Featured Projects
 Here are some projects I'm proud of:
 
-| Project Name       | Description                                      | Technologies Used         | Link                                      |
-|--------------------|--------------------------------------------------|---------------------------|-------------------------------------------|
-| **my-nuxt-app**    | Recreated Columbia's homepage with modern tech   | Nuxt.js, Vue.js, TypeScript, Firebase | [GitHub](https://github.com/ferdi-kanat/my-nuxt-app) |
-| **CS50xKodluyoruz**| Solutions to CS50 problem sets in C              | C                         | [GitHub](https://github.com/ferdi-kanat/CS50xKodluyoruz) |
-| **budget-app**     | Budget management application                    | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/budget-app) |
-| **MyCotlinHomeworks** | Homework projects in Kotlin                   | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/MyCotlinHomeworks) |
-| **FakeStore**      | Fake store application                           | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/FakeStore) |
-| **CountryApp**     | Country information application                  | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/CountryApp) |
-| **my-java-lesson-codes** | Java learning repository                   | Java                      | [GitHub](https://github.com/ferdi-kanat/my-java-lesson-codes) |
-| **btkhtml**        | HTML and CSS projects                            | HTML, CSS                 | [GitHub](https://github.com/ferdi-kanat/btkhtml) |
-| **ResponsiveWebDesign** | Responsive web design projects              | HTML, CSS                 | [GitHub](https://github.com/ferdi-kanat/ResponsiveWebDesign) |
-| **Book_Library**   | Book library management app                      | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/Book_Library) |
+| Project Name            | Description                                      | Technologies Used         | Link                                      |
+|-------------------------|--------------------------------------------------|---------------------------|-------------------------------------------|
+| **SalesClassification** | Advanced machine learning pipeline for sales profit prediction using multiple classification algorithms, featuring genetic algorithm-based feature selection and PCA dimensionality reduction with comprehensive performance analysis and visualizations. | Python                    | [GitHub](https://github.com/ferdi-kanat/SalesClassification) |
+| **my-nuxt-app**         | Recreated Columbia's homepage with modern tech   | Nuxt.js, Vue.js, TypeScript, Firebase | [GitHub](https://github.com/ferdi-kanat/my-nuxt-app) |
+| **CS50xKodluyoruz**     | Solutions to CS50 problem sets in C              | C                         | [GitHub](https://github.com/ferdi-kanat/CS50xKodluyoruz) |
+| **budget-app**          | Budget management application                    | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/budget-app) |
+| **MyCotlinHomeworks**   | Homework projects in Kotlin                      | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/MyCotlinHomeworks) |
+| **FakeStore**           | Fake store application                           | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/FakeStore) |
+| **CountryApp**          | Country information application                  | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/CountryApp) |
+| **my-java-lesson-codes**| Java learning repository                         | Java                      | [GitHub](https://github.com/ferdi-kanat/my-java-lesson-codes) |
+| **btkhtml**             | HTML and CSS projects                            | HTML, CSS                 | [GitHub](https://github.com/ferdi-kanat/btkhtml) |
+| **ResponsiveWebDesign** | Responsive web design projects                   | HTML, CSS                 | [GitHub](https://github.com/ferdi-kanat/ResponsiveWebDesign) |
+| **Book_Library**        | Book library management app                      | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/Book_Library) |
 
 ## 🏆 Certificates
 - [You can look at my LinkedIn profile for all my certificates](https://www.linkedin.com/in/ferdi-k-0b4528272) 
