@@ -5,7 +5,7 @@ I'm a passionate programmer and web development enthusiast with a strong foundat
 ## 🚀 About Me
 - 🌍 Based in Bursa, Turkey
 - 💻 Currently honing my skills in **web development**, **mobile app development**, **machine learning**, **data science**, and **software engineering**
-- 🎓 Studying at Yalova University in Computer Engineering
+- 🎓 I graduated from Yalova University, Department of Computer Engineering.
 - 🌱 Always learning and exploring new technologies
 
 ## 🛠 Skills
@@ -27,13 +27,7 @@ Here are some projects I'm proud of:
 | **my-nuxt-app**         | Recreated Columbia's homepage with modern web technologies.  | Nuxt.js, Vue.js, TypeScript, Firebase | [GitHub](https://github.com/ferdi-kanat/my-nuxt-app) |
 | **CS50xKodluyoruz**     | Solutions to CS50 problem sets in C              | C                         | [GitHub](https://github.com/ferdi-kanat/CS50xKodluyoruz) |
 | **budget-app**          | Budget management application                    | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/budget-app) |
-| **MyCotlinHomeworks**   | Homework projects in Kotlin                      | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/MyCotlinHomeworks) |
-| **FakeStore**           | Fake store application                           | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/FakeStore) |
-| **CountryApp**          | Country information application                  | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/CountryApp) |
-| **my-java-lesson-codes**| Java learning repository                         | Java                      | [GitHub](https://github.com/ferdi-kanat/my-java-lesson-codes) |
-| **btkhtml**             | HTML and CSS projects                            | HTML, CSS                 | [GitHub](https://github.com/ferdi-kanat/btkhtml) |
 | **ResponsiveWebDesign** | Responsive web design projects                   | HTML, CSS                 | [GitHub](https://github.com/ferdi-kanat/ResponsiveWebDesign) |
-| **Book_Library**        | Book library management app                      | Kotlin                    | [GitHub](https://github.com/ferdi-kanat/Book_Library) |
 
 ## 🏆 Certificates
 - [You can look at my LinkedIn profile for all my certificates](https://www.linkedin.com/in/ferdi-k-0b4528272)
