@@ -20,7 +20,7 @@ Here are some projects I'm proud of:
 
 | Project Name            | Description                                      | Technologies Used         | Link                                      |
 |-------------------------|--------------------------------------------------|---------------------------|-------------------------------------------|
-| **SalesClassification** | Advanced machine learning pipeline for sales profit prediction using multiple classification algorithms, featuring genetic algorithm-based feature selection and PCA dimensi[...]
+| **SalesClassification** | Advanced machine learning pipeline for sales profit prediction using multiple classification algorithms, featuring genetic algorithm-based feature selection and PCA dimensi[...] | [GitHub] (https://github.com/ferdi-kanat/SalesClassification) |
 | **ITRecoveryTool**      | Windows desktop application for diagnosing and repairing Microsoft Teams and Outlook issues.  Automates cache cleanup, configuration resets, and process management with WMI-based process tree handling. | C#, . NET 8, WinForms, WMI (System.Management) | [GitHub](https://github.com/ferdi-kanat/ITRecoveryTool) |
 | **InventoryFlow**       | Inventory management system with 4-layer architecture (Entities, DataAccess, Business, UI) using Entity Framework Core and FluentValidation | C#, .NET 8, Entity Framework Core, Windows Forms, FluentValidation | [GitHub](https://github.com/ferdi-kanat/InventoryFlow) |
 | **DisKlinik**           | Dental Clinic Management System - Windows Forms desktop application with a 3-layer architecture (Presentation, Business, Data Access); uses C# and LocalDB. | C#, Windows Forms, LocalDB | [GitHub](https://github.com/ferdi-kanat/DisKlinik) |
